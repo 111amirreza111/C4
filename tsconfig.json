@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+     
+    
+    "target": "ES6",
+    "sourceMap": true,
+    "outDir": "public",  // Output file for compiled JavaScript (optional)
+  },
+  "include": ["src/**/*"]  // Include files from the "src" directory for compilation
+}
